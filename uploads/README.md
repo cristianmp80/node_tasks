@@ -1,0 +1,1 @@
+Carpeta donde se suben los avatares de los usuarios.
